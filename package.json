@@ -1,5 +1,5 @@
 {
-  "name": "superchat",
+  "name": "chat-piola",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,8 +10,12 @@
     "@types/node": "^12.12.62",
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
+    "bad-words": "^3.0.3",
+    "eslint": "^6.6.0",
+    "firebase": "^7.21.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-firebase-hooks": "^2.2.0",
     "react-scripts": "3.4.3",
     "typescript": "^3.7.5"
   },
